@@ -1,0 +1,7 @@
+project_id = "wqvtcgojyjrmutruqvwv"
+
+[functions.check-plagiarism]
+verify_jwt = false
+
+[functions.ai-grade-submission]
+verify_jwt = false
