@@ -10,7 +10,7 @@ const Home = () => {
       <Navbar />
       
       {/* Hero Section */}
-      <section id="hero" className="relative py-40 px-4 sm:px-6 lg:px-8 overflow-hidden">
+      <section id="hero" className="relative py-20 px-4 sm:px-6 lg:px-8 overflow-hidden">
         {/* Violet Background Layers */}
         <div className="absolute inset-0 bg-gradient-to-br from-violet-500/20 via-purple-400/10 to-indigo-500/15"></div>
         <div className="absolute inset-0 bg-gradient-to-t from-violet-600/5 via-transparent to-purple-500/10"></div>
